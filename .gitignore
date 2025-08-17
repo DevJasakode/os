@@ -1,0 +1,4 @@
+# Ignore compiled objects
+*.o
+*.out
+a.out
